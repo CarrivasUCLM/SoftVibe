@@ -7,6 +7,7 @@ public class Box {
 		return this.number;
 	}
 
+
 	public void setNumber(int Number) {
 		this.number = Number;
 	}
@@ -20,8 +21,9 @@ public class Box {
 		this.state = State;
 	}
 
-	public Box(int number, int state) {
-		
+
+  public Box(int number, int state) {
+		// TODO - implement Box.Box
 		throw new UnsupportedOperationException();
 	}
 
