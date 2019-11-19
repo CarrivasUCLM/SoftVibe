@@ -7,10 +7,7 @@ public class Box {
 		return this.number;
 	}
 
-	/**
-	 * 
-	 * @param Number
-	 */
+
 	public void setNumber(int Number) {
 		this.number = Number;
 	}
@@ -19,20 +16,13 @@ public class Box {
 		return this.state;
 	}
 
-	/**
-	 * 
-	 * @param State
-	 */
+
 	public void setState(int State) {
 		this.state = State;
 	}
 
-	/**
-	 * 
-	 * @param number
-	 * @param state
-	 */
-	public Box(int number, int state) {
+
+  public Box(int number, int state) {
 		// TODO - implement Box.Box
 		throw new UnsupportedOperationException();
 	}

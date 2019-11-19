@@ -26,7 +26,10 @@ public class GestionarBox {
 	}
 
 	public void SeleccionaBox() {
-		// TODO - implement GestionarBox.SeleccionaBox
+		System.out.println("Selecciona el box a utilizar: ");
+		
+		System.out.println("Box seleccionado");
+
 		throw new UnsupportedOperationException();
 	}
 
