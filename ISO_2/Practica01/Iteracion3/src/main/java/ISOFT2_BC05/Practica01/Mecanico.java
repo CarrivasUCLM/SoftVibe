@@ -16,8 +16,3 @@ public class Mecanico {
 	public void getContraseña() {
 		return this._contraseña;
 	}
-
-	public void setContraseña(Object aContraseña) {
-		this._contraseña = aContraseña;
-	}
-}
